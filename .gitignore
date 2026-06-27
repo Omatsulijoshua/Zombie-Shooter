@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+
+bin/
+obj/
+dist/*
+!dist/setup/
+!dist/setup/ZombieShooterSetup.exe
+
+*.user
+*.suo
+*.cache
+*.log
